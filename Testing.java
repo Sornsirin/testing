@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;   
-public class Multiply{
+public class Testing{
 	public static void main(String[] args){
 		String firstNum, secondNum, answer;
 		int num1, num2, sum;
