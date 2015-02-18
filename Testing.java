@@ -18,6 +18,6 @@ public class Multiply{
 		answer = num1 + " x " + num2 + " = " + sum;
 
 		//Display results
-		JOptionPane.showMessageDialog(null, answer, "Answer Adder ", JOptionPane.INFORMATION_MESSAGE);
+		JOptionPane.showMessageDialog(null, answer, "Answer Multiply ", JOptionPane.INFORMATION_MESSAGE);
 	}
 }
